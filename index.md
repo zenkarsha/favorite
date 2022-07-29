@@ -2,20 +2,21 @@
 layout: default
 ---
 
-# [盆栽、多肉植物、塊根植物、観葉植物通販/KIDORI -キドリ-](https://ki-do-ri.jp/){:target="_blank"}
+# [KIDORI -キドリ-](https://ki-do-ri.jp/){:target="_blank"}
 
 ```
-多肉植物介紹與販賣的網站
+盆栽、多肉植物、塊根植物、觀葉植物通販介紹的網站
 ```
 
-[![盆栽、多肉植物、塊根植物、観葉植物通販/KIDORI -キドリ-](/images/kidori-cover.png)](https://ki-do-ri.jp/){:target="_blank"}
+[![KIDORI -キドリ-](/images/kidori-cover.png)](https://ki-do-ri.jp/){:target="_blank"}
 
 ---
 
 # [A Big Bang for Plastic Recycling](https://preciousplastic.com/){:target="_blank"}
 
 ```
-把回收的塑膠瓶重新粉碎、軟化、再設計利用的開源網站，讓你自己可以直接製作回收機器來改善地球環境。
+把回收的塑膠瓶重新粉碎、軟化、再設計利用的開源網站
+讓你自己可以直接製作回收機器來改善地球環境
 ```
 
 [![A Big Bang for Plastic Recycling](/images/preciousplastic-cover.png)](https://preciousplastic.com/){:target="_blank"}
