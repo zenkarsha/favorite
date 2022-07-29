@@ -1,3 +1,3 @@
-# works
+# favorite
 
-[https://zenkarsha.github.io/works/](https://zenkarsha.github.io/works/)
+[https://zenkarsha.github.io/favorite/](https://zenkarsha.github.io/favorite/)
