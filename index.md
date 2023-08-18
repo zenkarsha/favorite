@@ -33,17 +33,6 @@ layout: default
 
 ---
 
-# [ドラえもんのタイトルジェネレーター](https://dora-title-generator.herokuapp.com/ドラえもんのタイトルジェネレーター){:target="_blank"}
-
-```
-ドラえもんのタイトルジェネレーター
-哆拉ㄟ夢產生器
-```
-
-[![ドラえもんのタイトルジェネレーター](/images/dora-title-generator-cover.png)](https://dora-title-generator.herokuapp.com/ドラえもんのタイトルジェネレーター){:target="_blank"}
-
----
-
 # [Logoly.Pro —— A creative Logo Generator](https://www.logoly.pro/#/){:target="_blank"}
 
 ```
